@@ -1,4 +1,4 @@
-# RepoTeam3
+# Repo Team 2
 ## RealTime Programming Project
 | No | Name | Matrics |
 |:-----:|-----|:-----:|
