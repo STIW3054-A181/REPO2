@@ -1,10 +1,5 @@
 
 
-RealTime Programming Project
-
-Mohd Afiq Fikri Bin Zanawi
-246974
-
 # Repo Team 2
 ## RealTime Programming Project
 | No | Name | Matrics |
